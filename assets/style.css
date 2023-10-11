@@ -109,6 +109,11 @@ body {
 	
 	border-radius:0 ;
 }
+.active img {
+	width: 100%;
+  height: auto;
+}
+
 .nav-pills .nav-link {
 	color: #000
 }
